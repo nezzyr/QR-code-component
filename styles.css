@@ -1,0 +1,25 @@
+body {
+    background-color: hsl(219, 96%, 91%);
+  }
+  h1 {
+    font-size: 140%;
+    padding: 2%;
+    color: rgb(0, 0, 0);
+  }
+  p {
+    text-align: justify;
+    font-weight:700;
+    color: rgba(212, 45%, 89%);
+  }
+  .whitesquare{ 
+    margin: 0 auto;
+    background-color: #ffffffbd;
+    width: 270px;
+    height: 460px;
+    padding: 20px;
+  text-align: center;
+  border-radius: 4%;
+  }
+  img { width:250px;height:300px;
+border-radius: 3%;
+}
